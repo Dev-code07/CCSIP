@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="727" height="761" viewBox="0 0 727 761">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_67" data-name="Rectangle 67" width="727" height="761" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_8" data-name="Mask Group 8" clip-path="url(#clip-path)">
+    <g id="Group_31" data-name="Group 31" transform="translate(-344.995 -181)">
+      <rect id="Rectangle_19" data-name="Rectangle 19" width="51.45" height="300.574" transform="translate(598.771 304.459) rotate(-148.807)" fill="#fff"/>
+      <rect id="Rectangle_20" data-name="Rectangle 20" width="300.529" height="51.447" transform="translate(381.601 304.122) rotate(-103.808)" fill="#fff"/>
+      <rect id="Rectangle_21" data-name="Rectangle 21" width="300.571" height="51.45" transform="matrix(-0.855, -0.518, 0.518, -0.855, 952.656, 754.448)" fill="#fff"/>
+      <rect id="Rectangle_22" data-name="Rectangle 22" width="51.447" height="300.528" transform="matrix(-0.239, -0.971, 0.971, -0.239, 708.151, 431.561)" fill="#fff"/>
+      <rect id="Rectangle_23" data-name="Rectangle 23" width="300.572" height="51.451" transform="matrix(-0.855, -0.518, 0.518, -0.855, 277.804, 445.242)" fill="#fff"/>
+      <rect id="Rectangle_24" data-name="Rectangle 24" width="51.448" height="300.528" transform="translate(12.278 690.12) rotate(-103.807)" fill="#fff"/>
+      <rect id="Rectangle_25" data-name="Rectangle 25" width="51.45" height="300.574" transform="translate(289.563 979.308) rotate(-148.807)" fill="#fff"/>
+      <rect id="Rectangle_26" data-name="Rectangle 26" width="300.531" height="51.447" transform="translate(640.162 1000) rotate(-103.808)" fill="#fff"/>
+      <rect id="Rectangle_27" data-name="Rectangle 27" width="278.254" height="51.445" transform="translate(389.996 458.108) rotate(-125.617)" fill="#fff"/>
+      <rect id="Rectangle_28" data-name="Rectangle 28" width="51.443" height="278.253" transform="matrix(-0.987, -0.163, 0.163, -0.987, 502.588, 400.981)" fill="#fff"/>
+      <rect id="Rectangle_29" data-name="Rectangle 29" width="51.451" height="278.254" transform="translate(571.85 431.817) rotate(-125.614)" fill="#fff"/>
+      <rect id="Rectangle_30" data-name="Rectangle 30" width="278.25" height="51.448" transform="translate(873.542 547.97) rotate(-170.614)" fill="#fff"/>
+      <rect id="Rectangle_31" data-name="Rectangle 31" width="278.254" height="51.445" transform="translate(730.222 798.053) rotate(-125.617)" fill="#fff"/>
+      <rect id="Rectangle_32" data-name="Rectangle 32" width="51.443" height="278.253" transform="matrix(-0.987, -0.163, 0.163, -0.987, 502.784, 881.937)" fill="#fff"/>
+      <rect id="Rectangle_33" data-name="Rectangle 33" width="51.452" height="278.25" transform="matrix(-0.582, -0.813, 0.813, -0.582, 231.905, 772.044)" fill="#fff"/>
+      <rect id="Rectangle_34" data-name="Rectangle 34" width="278.251" height="51.448" transform="translate(392.588 548.167) rotate(-170.614)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

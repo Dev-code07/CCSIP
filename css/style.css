@@ -1,0 +1,200 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+:root {
+    --main-font-family: 'Inter', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    --unnamed-font-family-lexend: 'Lexend', sans-serif;
+    --unnamed-font-family-proxima-nova: 'Source Sans Pro', sans-serif;
+    --primary-color: #7A103C;
+    --secondary-color: #FDB94D;
+    --text-color-dark: #3E3E3E;
+    --text-color-light: #F5F5F5;
+    --background-color-light: #F9FAFB;
+    --background-color-dark: #374151;
+    --f1: 3.052rem;
+    --f2: 2.441rem;
+    --f3: 1.953rem;
+    --f4: 1.563rem;
+    --f5: 1.25rem;
+    --f6: 1rem;
+}
+
+.text-primary {
+    color: var(--primary-color);
+}
+
+.text-secondary {
+    color: var(--secondary-color);
+}
+
+.bg-primary {
+    background-color: var(--primary-color);
+}
+
+.bg-secondary {
+    background-color: var(--secondary-color);
+}
+
+/* General body styling for demonstration */
+body {
+    font-family: var(--main-font-family);
+    color: var(--text-color-dark);
+    line-height: 1.6;
+}
+
+h1 {
+    font-family: var(--unnamed-font-family-lexend);
+    font-size: var(--f1);
+    font-weight: 800;
+    color: var(--primary-color);
+}
+
+h2 {
+    font-family: var(--unnamed-font-family-lexend);
+    font-size: var(--f2);
+    font-weight: 700;
+    color: var(--primary-color);
+}
+
+h3 {
+    font-family: var(--unnamed-font-family-lexend);
+    font-size: var(--f3);
+    font-weight: 600;
+    color: var(--primary-color);
+
+}
+
+h4 {
+    font-family: var(--unnamed-font-family-lexend);
+    font-size: var(--f4);
+    font-weight: 500;
+    color: var(--primary-color);
+
+}
+
+h5 {
+    font-family: var(--unnamed-font-family-lexend);
+    font-size: var(--f5);
+    font-weight: 400;
+}
+
+h6 {
+    font-family: var(--unnamed-font-family-lexend);
+    font-size: var(--f6);
+    font-weight: 400;
+}
+
+p {
+    font-family: var(--unnamed-font-family-proxima-nova);
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.logo-img {
+    max-width: 343px;
+    height: 156px;
+}
+
+.bg-custom-footer {
+    background-color: var(--primary-color);
+}
+
+.footer-link-hover:hover {
+    color: var(--secondary-color) !important;
+}
+
+.nav-link:hover {
+    color: var(--secondary-color) !important;
+}
+
+.offcanvas-body .nav-link:hover {
+    background-color: var(--secondary-color);
+    color: var(--background-color-light) !important;
+}
+
+.focus-ring:focus {
+    box-shadow: 0 0 0 0.25rem rgba(13, 110, 253, 0.25);
+    outline: 2px solid #0d6efd;
+}
+
+.navbar-nav .nav-item a {
+    color: var(--primary-color);
+}
+
+.hero-banner {
+    background-color: var(--background-color-light);
+}
+
+.img-banner-right {
+    width: 1002px;
+    height: 765px;
+}
+
+.banner-imgg {
+    width: 436px;
+    height: 549px;
+}
+
+.banner-bgg {
+    width: 463px;
+    height: 761px;
+}
+
+.our-mission {
+    background-color: var(--primary-color);
+    padding: 166px 0 66px 0
+}
+
+.our-mission h3,h2 {
+    color: var(--secondary-color) ;
+}
+
+.our-focus {
+    padding: 104px 0;
+}
+
+.our-focus h2,h3 {
+    color: var(--primary-color) ;
+
+}
+
+.our-focus p {
+    color: var(--text-color-dark) !important;
+}
+
+.primary-btn {
+    background-color: var(--primary-color);
+    color: var(--background-color-light);
+    border: none;
+    padding: 12px 32px;
+    font-size: 16px;
+    border-radius: 80px;
+    cursor: pointer;
+    font-weight: 600;
+    transition: background-color 0.3s ease;
+}
+
+.padding-left {
+    padding-left: 140px;
+}
+
+.beyond-research {
+    background-color: var(--background-color-light);
+}
+
+.image-border {
+    border-top: 10px ;
+    border-right:10px ;
+    border-color: var(--secondary-color);
+}
+.beyond-research h2{
+    color:var(--primary-color);
+}
+.common-room{
+    background-color: var(--secondary-color);
+}
+.common-h2{
+    color: var(--primary-color);
+}
