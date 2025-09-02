@@ -4,7 +4,7 @@ document.addEventListener('DOMContentLoaded', () => {
             <nav class="navbar navbar-expand-xl  navbar-light bg-white shadow-sm">
                 <div class="container-fluid px-md-5 px-2">
                     <a class="navbar-brand" href="index.html">
-                        <img src="/public/CCSIP_English_Full Colour@2x.png" alt="Logo" class=" logo-img" />
+                        <img src="./public/CCSIP_English_Full Colour@2x.png" alt="Logo" class=" logo-img" />
                     </a>
                     
                     <button class="navbar-toggler border-0 focus-ring" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasNavbar" aria-controls="offcanvasNavbar" aria-label="Toggle navigation">
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
             <div class="px-md-5 px-4">
                 <div class="row g-md-5 g-2 pb-5 text-top">
                     <div class="col-md-4 p-0 mb-4 mb-md-0">
-                    <div> <a href="index.html"><img src="/Public/CCSIP_English_Dark BG@2x.png" alt="CCAC Logo" class="mb-4 img-fluid" /></a></div>
+                    <div> <a href="index.html"><img src="./public/CCSIP_English_Dark BG@2x.png" alt="CCAC Logo" class="mb-4 img-fluid" /></a></div>
                     <div>
                        <ul class="list-unstyled d-flex gap-5">
                             <li class="fs-1"><a href="#" class="text-white"><i class="fa-brands fa-facebook"></i></a></li>
