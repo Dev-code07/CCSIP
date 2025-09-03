@@ -267,4 +267,9 @@ p {
  .card-body h4,p a{
     color: var(--primary-color);
  }     
+ .card img{
+    height:300px;
+    object-fit:cover;
+    width:100%;
+ }
 /* insights page css end here  */
