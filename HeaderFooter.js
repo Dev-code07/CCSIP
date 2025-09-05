@@ -73,22 +73,22 @@ document.addEventListener('DOMContentLoaded', () => {
                     <div class="col-md-4 p-0 mb-4 mb-md-0">
                     <div> <a href="index.html"><img src="./public/CCSIP_English_Dark BG@2x.png" alt="CCAC Logo" class="mb-4 img-fluid" /></a></div>
                     <div>
-                       <ul class="list-unstyled d-flex gap-5">
-                            <li class="fs-1"><a href="#" class="text-white"><i class="fa-brands fa-facebook"></i></a></li>
-                            <li class="fs-1"><a href="#" class="text-white"><i class="fa-brands fa-instagram"></i></a></li>
-                            <li class="fs-1"><a href="#" class="text-white"><i class="fa-brands fa-square-x-twitter"></i></a></li>
-                            <li class="fs-1"><a href="#" class="text-white"><i class="fa-solid fa-globe"></i></a></li>
+                       <ul class="list-unstyled d-flex gap-4">
+                            <li class="fs-2"><a href="#" class="text-white"><i class="fa-brands fa-facebook"></i></a></li>
+                            <li class="fs-2"><a href="#" class="text-white"><i class="fa-brands fa-instagram"></i></a></li>
+                            <li class="fs-2"><a href="#" class="text-white"><i class="fa-brands fa-square-x-twitter"></i></a></li>
+                            <li class="fs-2"><a href="#" class="text-white"><i class="fa-solid fa-globe"></i></a></li>
                         </ul>
                     </div>
                     </div>
                     <div class="col-md-6 mb-4 p-0 mb-md-0 d-flex justify-content-start justify-content-md-center">
                         <ul class="list-unstyled space-y-4">
-                            <li class="mb-3"><a href="index.html" class="text-white  footer-link-hover fs-3">Home</a></li>
-                            <li class="mb-3"><a href="#" class="text-white  footer-link-hover fs-3">Our Team</a></li>
-                            <li class="mb-3"><a href="insights.html" class="text-white  footer-link-hover fs-3">Insights</a></li>
-                            <li class="mb-3"><a href="beyond-research.html" class="text-white footer-link-hover fs-3">Beyond Research</a></li>
-                            <li class="mb-3"><a href="common-room.html" class="text-white footer-link-hover fs-3">The Common Room</a></li>
-                            <li><a href="#" class="text-white  footer-link-hover fs-3">Contact</a></li>
+                            <li class="mb-2"><a href="index.html" class="text-white  footer-link-hover">Home</a></li>
+                            <li class="mb-2"><a href="#" class="text-white  footer-link-hover">Our Team</a></li>
+                            <li class="mb-2"><a href="insights.html" class="text-white  footer-link-hover">Insights</a></li>
+                            <li class="mb-2"><a href="beyond-research.html" class="text-white footer-link-hover">Beyond Research</a></li>
+                            <li class="mb-2"><a href="common-room.html" class="text-white footer-link-hover">The Common Room</a></li>
+                            <li><a href="#" class="text-white  footer-link-hover">Contact</a></li>
                         </ul>
                     </div>   
                     <div class="col-md-2 mb-4 mb-md-0 p-0">                      
