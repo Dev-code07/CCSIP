@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="391" height="959" viewBox="0 0 391 959">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_128" data-name="Rectangle 128" width="391" height="959" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_17" data-name="Mask Group 17" clip-path="url(#clip-path)">
+    <g id="Group_86" data-name="Group 86" transform="translate(-581 -58)">
+      <rect id="Rectangle_112" data-name="Rectangle 112" width="51.45" height="300.574" transform="translate(401.224 695.541) rotate(31.193)" fill="#fff"/>
+      <rect id="Rectangle_113" data-name="Rectangle 113" width="300.529" height="51.447" transform="translate(618.394 695.878) rotate(76.192)" fill="#fff"/>
+      <rect id="Rectangle_114" data-name="Rectangle 114" width="300.571" height="51.45" transform="matrix(0.855, 0.518, -0.518, 0.855, 47.339, 245.552)" fill="#fff"/>
+      <rect id="Rectangle_115" data-name="Rectangle 115" width="51.447" height="300.528" transform="matrix(0.239, 0.971, -0.971, 0.239, 291.844, 568.439)" fill="#fff"/>
+      <rect id="Rectangle_116" data-name="Rectangle 116" width="300.572" height="51.451" transform="matrix(0.855, 0.518, -0.518, 0.855, 722.191, 554.758)" fill="#fff"/>
+      <rect id="Rectangle_117" data-name="Rectangle 117" width="51.448" height="300.528" transform="translate(987.717 309.88) rotate(76.193)" fill="#fff"/>
+      <rect id="Rectangle_118" data-name="Rectangle 118" width="51.45" height="300.574" transform="translate(710.432 20.692) rotate(31.193)" fill="#fff"/>
+      <rect id="Rectangle_119" data-name="Rectangle 119" width="300.531" height="51.447" transform="translate(359.833 0) rotate(76.192)" fill="#fff"/>
+      <rect id="Rectangle_120" data-name="Rectangle 120" width="278.254" height="51.445" transform="translate(609.999 541.892) rotate(54.383)" fill="#fff"/>
+      <rect id="Rectangle_121" data-name="Rectangle 121" width="51.443" height="278.253" transform="matrix(0.987, 0.163, -0.163, 0.987, 497.407, 599.019)" fill="#fff"/>
+      <rect id="Rectangle_122" data-name="Rectangle 122" width="51.451" height="278.254" transform="translate(428.145 568.182) rotate(54.386)" fill="#fff"/>
+      <rect id="Rectangle_123" data-name="Rectangle 123" width="278.25" height="51.448" transform="translate(126.453 452.03) rotate(9.386)" fill="#fff"/>
+      <rect id="Rectangle_124" data-name="Rectangle 124" width="278.254" height="51.445" transform="translate(269.773 201.947) rotate(54.383)" fill="#fff"/>
+      <rect id="Rectangle_125" data-name="Rectangle 125" width="51.443" height="278.253" transform="matrix(0.987, 0.163, -0.163, 0.987, 497.211, 118.063)" fill="#fff"/>
+      <rect id="Rectangle_126" data-name="Rectangle 126" width="51.452" height="278.25" transform="matrix(0.582, 0.813, -0.813, 0.582, 768.09, 227.956)" fill="#fff"/>
+      <rect id="Rectangle_127" data-name="Rectangle 127" width="278.251" height="51.448" transform="translate(607.406 451.833) rotate(9.386)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
